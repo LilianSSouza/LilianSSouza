@@ -17,12 +17,19 @@ Apaixonada por estruturar e transformar de dados, com o objetivo de garantiar a 
 💻Tecnologias e Ferramentas:
 
 **Linguagens:** Linguagem M, DAX, SQL, Python
+
 **Bi & Visualização:** Power BI, Looker
+
 **Banco de Dados:** BigQuery, SQL Server
+
 **ETL & Automação:**  Power Automate, Apache Airflow, Google Apps Script
+
 **Low-Code**: Power Apps
+
 **Planilha Eletronica:** Excel Avançado, Google Sheet
+
 **Gestão de Projetos:** Scrum, Kanban , GitHub
+
 **Gerenciamento de Tarefas e Documentos:** Microsoft Planner, Sharepoint, Miro 
 
 
