@@ -8,11 +8,16 @@ Apaixonada por estruturar e transformar de dados, com o objetivo de garantiar a 
 
 
 
+
+
+
 📚Formação:
 
   🖇️MBA em Data Engineering ( Em Andamento)
   
   🖇️Tecnologia em Banco de Dados
+
+
 
 
 
@@ -34,6 +39,8 @@ Apaixonada por estruturar e transformar de dados, com o objetivo de garantiar a 
 **Gestão de Projetos:** Scrum, Kanban , GitHub
 
 **Gerenciamento de Tarefas e Documentos:** Microsoft Planner, Sharepoint, Miro 
+
+
 
 
 
