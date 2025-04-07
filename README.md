@@ -7,11 +7,13 @@ Apaixonada por estruturar e transformar de dados, com o objetivo de garantiar a 
 
 
 
+
 📚Formação:
 
   🖇️MBA em Data Engineering ( Em Andamento)
   
   🖇️Tecnologia em Banco de Dados
+
 
 
 
@@ -25,7 +27,7 @@ Apaixonada por estruturar e transformar de dados, com o objetivo de garantiar a 
 
 **ETL & Automação:**  Power Automate, Apache Airflow, Google Apps Script
 
-**Low-Code**: Power Apps
+**Low-Code**: 'Power Apps
 
 **Planilha Eletronica:** Excel Avançado, Google Sheet
 
